@@ -36,17 +36,17 @@ We assume you already know everything that was covered in Lab00, and we will not
 * Clone the starter code repo from our class organization to your cs24 directory.
 
 ```
-	git clone git@github.com:ucsb-cmptgcs1a-f20/cs24-s18-starter-code.git
+	git clone git@github.com:ucsb-cmptgcs1a-f21/cs24-s18-starter-code.git
 ```
 
 Note that this repo contains the starter code for all labs and programming assignments for CS 24 (although only the code for lab01 is up to date). So, you don't have to repeat the above step in subsequent labs.
 
 ## Step 1b: Create a new repo and clone it on your local machine
 
-* Create a repo for this lab just like you did in lab00: To do this, open a browser and navigate to [https://github.com](https://github.com). Log into your github account. From the drop down menu on the left, select our class organization: ucsb-cmptgcs1a-f20 and proceed to create a new repo using the correct naming convention. You may refer to the instructions in lab00. Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
+* Create a repo for this lab just like you did in lab00: To do this, open a browser and navigate to [https://github.com](https://github.com). Log into your github account. From the drop down menu on the left, select our class organization: ucsb-cmptgcs1a-f21 and proceed to create a new repo using the correct naming convention. You may refer to the instructions in lab00. Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
 
 * Clone the repo on your local machine: Navigate to your repo on github. If your repo is named lab00_jgaucho, then you have to go to to the link:
-[https://github.com/ucsb-cmptgcs1a-f20/lab00_jgaucho](https://github.com/ucsb-cmptgcs1a-f20/lab00_jgaucho). Click on the green "clone or download" button. Then click on the address of your repo.
+[https://github.com/ucsb-cmptgcs1a-f21/lab00_jgaucho](https://github.com/ucsb-cmptgcs1a-f21/lab00_jgaucho). Click on the green "clone or download" button. Then click on the address of your repo.
 
 ![submit](/lab/lab01/clone-repo.png){:height="500px"}
 
@@ -54,7 +54,7 @@ Note that this repo contains the starter code for all labs and programming assig
 
 ```
 	cd ~/cs24
-	git clone git@github.com:ucsb-cmptgcs1a-f20/lab00_jgaucho.git
+	git clone git@github.com:ucsb-cmptgcs1a-f21/lab00_jgaucho.git
 ```
 
 * The above command will create a new directory with the same name as your git repo. Change into that directory. For our example repo we need to type

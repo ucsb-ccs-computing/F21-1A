@@ -29,7 +29,7 @@ Note: Remember to push your work to github at the end of EVERY work session.
 
 * Navigate to your cs16 directory and clone the git repository you created
 ```
-git clone git@github.com:ucsb-cmptgcs1a-f20/lab06_jgaucho.git
+git clone git@github.com:ucsb-cmptgcs1a-f21/lab06_jgaucho.git
 ```
 * cd into this new directory
 ```

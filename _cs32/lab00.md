@@ -114,11 +114,11 @@ The first thing we should do is edit our Makefile using emacs or vim, or whateve
 
 On the first line of the file, put this, substituting your name (and that of your pair partner(s) if applicable, for YOUR NAME(S) HERE, as appropriate:
 
-    # Makefile for lab00, YOUR NAME(S) HERE, CMPTGCS 1A, F20
+    # Makefile for lab00, YOUR NAME(S) HERE, CMPTGCS 1A, F21
 
 Then, leave a blank line, and add the following two lines shown here, so that you end up with this as the first four lines of your Makefile:
 
-    # Makefile for lab00, YOUR NAME(S) HERE, CMPTGCS 1A, F20
+    # Makefile for lab00, YOUR NAME(S) HERE, CMPTGCS 1A, F21
 
     CXX=clang++
     # CXX=g++
@@ -181,7 +181,7 @@ Two important things:
 
 <!-- -->
 
-    # Makefile for lab00, YOUR NAME(S) HERE, CMPTGCS 1A, F20
+    # Makefile for lab00, YOUR NAME(S) HERE, CMPTGCS 1A, F21
 
     CXX=clang++
     # CXX=g++
@@ -260,7 +260,7 @@ output. Do that now. Notice it is different from before:
 \(5) Now, edit your helloWorld.cpp program, changing the program by
 adding a comment with your name(s) between the first two comments:
 
-    // helloWorld.cpp  R. Wang for UCSB CMPTGCS 1A, F20
+    // helloWorld.cpp  R. Wang for UCSB CMPTGCS 1A, F21
     // Edited by: YOUR NAME(S) HERE
     // minimal Hello World! program for testing Makefiles
 

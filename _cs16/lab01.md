@@ -44,7 +44,7 @@ If you don't see those files, go back through the instructions and make sure you
 
 ## Create a repo on github in our class organization
 
-For this lab and all subsequent programming assignments, you should start by creating a repo in the ucsb-cmptgcs1a-f20 organization you joined as instructed in lab00. Follow these steps
+For this lab and all subsequent programming assignments, you should start by creating a repo in the ucsb-cmptgcs1a-f21 organization you joined as instructed in lab00. Follow these steps
 
 * Navigate to your dashboard on [https://github.com/](https://github.com/). From the left drop down menu, select the class organization.
 * Click on the green "New repository" button to create a new repository.
@@ -53,7 +53,7 @@ For this lab and all subsequent programming assignments, you should start by cre
 
 * Select the "<b>Private</b>" visibility option so that other students in the org cannot view your code.
 
-* Add the C++ .gitignore option from the drop down menu and click on "Create repository". See screenshot below (note, the organization this quarter is "ucsb-cs16-m18").
+* Add the C++ .gitignore option from the drop down menu and click on "Create repository". See screenshot below (note, the organization for this screenshot is "ucsb-cs16-m18").
 
 ![new-repo](/lab/lab01/pic5.png){:height="500px"}
 

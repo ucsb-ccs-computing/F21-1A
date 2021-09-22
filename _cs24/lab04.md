@@ -22,7 +22,7 @@ By the time you have completed this lab, you should be able to
 
 ## Step 1a: Create a git repo
 
-* Create a repo for this lab on your github account (just like you did in lab00): To do this, open a browser and navigate to [www.github.com](www.github.com). Log into your github account. From the drop down menu on the left, select our class organization:  ucsb-cmptgcs1a-f20 and proceed to create a new repo. You may refer to the instructions in lab00. Follow this naming convention: If your github username is jgaucho, you should name your repo lab08_jgaucho. Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
+* Create a repo for this lab on your github account (just like you did in lab00): To do this, open a browser and navigate to [www.github.com](www.github.com). Log into your github account. From the drop down menu on the left, select our class organization:  ucsb-cmptgcs1a-f21 and proceed to create a new repo. You may refer to the instructions in lab00. Follow this naming convention: If your github username is jgaucho, you should name your repo lab08_jgaucho. Also you must set the visibity of your repo to be 'PRIVATE' when creating it. We will not repeat these instructions in subsequent labs.
 
 ## Step 1b: Clone your gitrepo and get the starter code
 
@@ -30,7 +30,7 @@ By the time you have completed this lab, you should be able to
 
 ```
 cd ~/cs24
-git clone git@github.com: ucsb-cmptgcs1a-f20/lab04_jgaucho.git
+git clone git@github.com: ucsb-cmptgcs1a-f21/lab04_jgaucho.git
 ```
 
 Now navigate to your starter-code directory (cloned in a previous lab) and do a git pull to get the latest version of the code

@@ -29,7 +29,7 @@ By the time you have completed this lab, you should be able to
 
 ```
 cd ~/cs24
-git clone git@github.com: ucsb-cmptgcs1a-f20/lab05_jgaucho.git
+git clone git@github.com: ucsb-cmptgcs1a-f21/lab05_jgaucho.git
 ```
 
 Now navigate to your starter-code directory (cloned in a previous lab) and do a git pull to get the latest version of the code
